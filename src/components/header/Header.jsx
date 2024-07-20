@@ -4,7 +4,7 @@ import { FaCheck } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <div className='header fadeId'>
+    <div className='header bg-danger'>
         <div>
             <h2 className="text-white text-5xl font-semibold pt-48 pl-32 ">START YOUR GAME <br /> WITH THE BEST</h2>
             <p className="text-white text-xl  pt-6 ml-32 ">We've Got Everything <br /> You Need for Gaming Supremacy </p>

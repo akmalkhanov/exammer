@@ -3,7 +3,7 @@ import "./HeaderPr.css"
 
 const HeaderPr = () => {
   return (
-    <div className='headerpr'>
+    <div className='headerpr bg-danger'>
         <div>
             <p className="text-white text-xl font-bold pt-48 ml-32">/ Start / Categories </p>
             <p className="text-white text-xl font-bold ml-32">/ Headphones and audio for gaming</p>
